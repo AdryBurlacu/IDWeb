@@ -1,0 +1,24 @@
+d6a745bfde38c698fcd36c4d66ad80e8ff2e9977 (HEAD -> master) Merge
+08e0c0aa034cf4261214a9cca8929922432fe181 (Python) main.py
+7bc92b2d8797a2853eea485725244c5b49b9de94 Merge branch 'PHP'
+91d2d9dff205b4bab075f8245aeaaab0216e8518 Merge branch 'Ruby'
+f256007b478bfb19dd1d28b0aabbf5ae8822002e (Ruby) main.rb
+aa4dc401e435e10edfbec182580300d50cc4067b Merge branch 'Swift'
+0fb005e8d36299a8119a6825de9adf9d88eedb26 Merge branch 'Ruby'
+d34cb7e3aee2398d3885725fa6fc0233aae52515 Merge branch 'Python'
+d8f07bd954d2dd59f5c143c3e26a02f9fb9e8265 Merge branch 'Pascal'
+a82a32b3c6dada8cd10a4c53827cce99e4cc4302 Merge branch 'JavaScript'
+22f75a7f89d0e0e69401e5385bfcc71df9234c26 Merge branch 'Java'
+0bb96f3a56d6bba460619620d22f4b8941714f14 Merge branch 'C#'
+d42c70975a47e13a9c2030c3b63cd48d331515ab Merge branch 'C++'
+0b3f6677d63d92dca2004893f9bb9eba87ced0a2 (Swift) Branch Swift
+587173cd712c9ec09c5dc9ba0dec3f2f1ed06112 Branch Ruby
+355be179a90a4411d1a974094cdec066c114db9e Branch Python
+0a2c356554b17fcb85dfb44de874044220c30829 (PHP) Branch PHP
+b6547a80eb6e9905f4069eec82fa9ce49d0d2f19 (Pascal) Branch Pascal
+393df71bedc83e0b0fadd4ca6773a2ef6efbc86c (JavaScript) Branch JavaScript
+220d784a8e88bf025bb495407494de970e6ec18e (Java) Branch Java
+7fc86af045b245d427fcad1167a5fb83366d62cd (C#) Branch CSharp
+c79f40d2d5506098507eed2768cf52a128caecde (C++) Branch  C++
+ceef49cd25b84b5d6cb8565a8ac1c8f288eeaa52 (C) Branch  C
+829ce5eb972913832ffa242f58008bb5f24e22e4 Hellow
